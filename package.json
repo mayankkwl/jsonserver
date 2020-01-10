@@ -1,0 +1,22 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankkwl/jsonserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankkwl/jsonserver/issues"
+  },
+  "homepage": "https://github.com/mayankkwl/jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
